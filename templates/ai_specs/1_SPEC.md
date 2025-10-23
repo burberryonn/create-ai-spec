@@ -1,3 +1,3 @@
 # Specification
 
-Run the master agent workflow to populate this file.
+Этот файл автоматически перезаписывается мастер-агентом на шаге SPEC. Не редактируйте вручную.
